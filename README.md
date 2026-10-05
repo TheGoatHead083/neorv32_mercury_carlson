@@ -1,4 +1,4 @@
-# neorv32_mercury2
+# neorv32_mercury_carlson
 
 NEORV32 RISC-V softcore for the MicroNova Mercury 2 (Artix-7).
 
